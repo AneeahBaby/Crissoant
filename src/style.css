@@ -1,11 +1,19 @@
+
 h1 {
     text-align: center;
     color: aliceblue;
-    
+    margin: 0;
+    font-size: 70px;
+    display: block;
+}
+h3 {
+    font-size: 60px;
 }
 body {
     background-color: palevioletred;
+    margin: 60px auto;
 }
+
 img {
     width: 100%;
     display: block;
@@ -14,5 +22,7 @@ img {
 .center {
     text-align: center;
     width: 100%;
-    font-size: 20px;
+    font-size: 50px;
+    display: block;
+    
 }
